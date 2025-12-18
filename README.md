@@ -131,10 +131,11 @@ KANGPT/
 If you use this code, please cite:
 
 ```bibtex
-@software{kangpt2024,
-  author = {Van Housen, Mathew},
+@software{kangpt2025,
+  author = {Vanherreweghe, Mathew},
+  organization = {Pebblebed},
   title = {KANGPT: Kolmogorov-Arnold Networks for GPT},
-  year = {2024},
+  year = {2025},
   url = {https://github.com/Mathewvanh/KANGPT}
 }
 ```
